@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=vishnu7443&color=0e75b6&style=flat)
 <h1 align="center">Hey, I'm Vishnu Vardhan R G 👋</h1>
 
 <p align="center">
