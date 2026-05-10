@@ -1,47 +1,80 @@
-# Hi, I'm Vishnu Vardhan R G 👋
+<h1 align="center">Hey, I'm Vishnu Vardhan R G 👋</h1>
 
-🎓 2nd Year CS Student · Full-Stack Developer · Agentic AI Enthusiast  
-🔭 Currently building AI-powered tools that solve real problems  
-🌱 Exploring CrewAI, LLMs, and production-grade full-stack systems  
-💼 Open to **internship opportunities** in Full-Stack or AI Development  
+<p align="center">
+  Full-Stack Developer & AI/ML Engineer · Tamil Nadu, India<br>
+  Building agentic systems with CrewAI, N8N & LLMs · 2nd Year CS Student<br>
+  <b>Open to remote internships & freelance in AI automation</b>
+</p>
+
+<p align="center">
+  <a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel&logoColor=white"/></a>
+  <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+### 🟢 Currently
+- 🔭 Building AI automation workflows with **N8N + CrewAI agents**
+- 🧠 Exploring **multi-agent systems** and production ML pipelines
+- 💼 Open to **remote internships** and **freelance AI/automation projects**
+- 🎓 2nd Year CS Student · Google Certified · Claude AI Certified
 
-**Frontend**  
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+---
+
+### 🚀 Featured Projects
+
+| Project | What it does | Stack |
+|--------|-------------|-------|
+| **SmartStudy** | AI tool that generates quizzes & summaries from study material | Python · React · LLM |
+| **Smart Resume Generator** | Parses a job description with AI and generates a tailored resume | Node.js · LLM · CrewAI |
+
+---
+
+### 🛠 Tech Stack
+
+**Frontend**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 
-**Backend & DB**  
+**Backend & Database**
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
 
-**AI & Agents**  
-![CrewAI](https://img.shields.io/badge/CrewAI-000000?style=flat&logo=data:image/svg+xml;base64,PHN2Zy8+&logoColor=white)
-![LangChain](https://img.shields.io/badge/Agentic_AI-blueviolet?style=flat)
+**AI / Agentic Stack**
+![CrewAI](https://img.shields.io/badge/CrewAI-8B5CF6?style=flat&logoColor=white)
+![N8N](https://img.shields.io/badge/N8N-EA4B71?style=flat&logo=n8n&logoColor=white)
+![Claude AI](https://img.shields.io/badge/Claude_AI-CC785C?style=flat&logoColor=white)
+![Generative AI](https://img.shields.io/badge/Generative_AI-412991?style=flat&logo=openai&logoColor=white)
 
 ---
 
-## 🚀 Featured Projects
+### 📊 GitHub Stats
 
-### 🧠 SmartStudy
-> AI-powered tool that generates quizzes and summaries from study material  
-`Python` `React` `LLM` — *Helps students study smarter, not harder*
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vishnu7443&show_icons=true&theme=default&hide_border=true&count_private=true" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishnu7443&hide_border=true" width="48%"/>
+</p>
 
-### 📄 Smart Resume Generator
-> Parses a job description using AI/LLM and generates a tailored resume automatically  
-`Node.js` `Python` `LLM` — *Cuts resume writing time from hours to seconds*
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishnu7443&layout=compact&hide_border=true&theme=default" width="40%"/>
+</p>
 
 ---
 
-## 📫 Connect with Me
+### 🏆 Certifications
+- ✅ Google Essential Skills
+- ✅ Claude AI Certification
+- ✅ N8N Workflow Automation
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel&logoColor=white)](YOUR_PORTFOLIO_URL)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_HANDLE)
+---
+
+<p align="center">
+  <i>Open to remote internships & freelance AI automation projects · Let's build something real.</i>
+</p>
