@@ -78,9 +78,12 @@
 ### 🐍 Contribution Snake
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vishnu7443/vishnu7443/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vishnu7443/vishnu7443/output/github-snake.svg"/>
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/vishnu7443/vishnu7443/output/github-snake.svg"/>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/vishnu7443/vishnu7443/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/vishnu7443/vishnu7443/output/github-snake.svg"/>
+  <img alt="contribution snake"
+    src="https://raw.githubusercontent.com/vishnu7443/vishnu7443/output/github-snake.svg"/>
 </picture>
 
 ---
