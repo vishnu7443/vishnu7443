@@ -1,16 +1,14 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=180&amp;section=header&amp;text=Vishnu%20Vardhan%20R%20G&amp;fontSize=42&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=32&amp;desc=Full-Stack%20Developer%20%26%20AI%2FML%20Engineer%20%7C%20Building%20at%20the%20intersection%20of%20AI%20%26%20the%20Web&amp;descAlignY=62&amp;descSize=16" />
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Vishnu%20Vardhan%20R%20G&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%26%20AI%2FML%20Engineer&descAlignY=62&descSize=18)
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+Vishnu+Vardhan+%F0%9F%91%8B;Full-Stack+Dev+%7C+AI%2FML+Engineer;Agentic+AI+%7C+RAG+%7C+LLM+Builder;2nd-Year+CSE+%40+SRIT+%7C+CGPA+9.3%2F10)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+Vishnu+Vardhan!;Full-Stack+Dev+%7C+AI%2FML+Engineer;Agentic+AI+%7C+RAG+%7C+LLM+Builder;2nd-Year+CSE+%40+SRIT+%7C+CGPA+9.3%2F10)
 
-<br/>
-
-[![Profile Views](https://komarev.com/ghpvc/?username=vishnu7443&color=70a5fd&style=flat-square&label=Profile+Views)](https://github.com/vishnu7443)
+![Profile Views](https://komarev.com/ghpvc/?username=vishnu7443&color=70a5fd&style=flat-square&label=Profile+Views)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/vishnu-vardhan-r-g-776299412)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/visshnu2007/)
-[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=flat-square&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/profile/visshnu2007)
-[![Gmail](https://img.shields.io/badge/visshnu2007%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:visshnu2007@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=flat-square&logo=hackerrank&logoColor=black)](https://hackerrank.com/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:visshnu2007@gmail.com)
 
 </div>
 
@@ -34,7 +32,7 @@ class VishnuVardhan:
         ]
 
         self.currentlyBuilding = [
-            "ContextFlow -- Agentic RAG + persistent memory",
+            "ContextFlow -- Agentic RAG with persistent memory",
             "Developer Portfolio v2 (Neural Web aesthetic)"
         ]
 
@@ -44,16 +42,9 @@ class VishnuVardhan:
             "Next.js App Router + Server Actions"
         ]
 
-        self.certifications = [
-            "Agentic AI -- Hugging Face",
-            "RAG -- Google Skills",
-            "Claude AI -- Anthropic",
-            "N8N Workflow Automation"
-        ]
-
     @property
     def fun_fact(self):
-        return "I shipped 4 end-to-end AI projects as a 2nd-year student"
+        return "Shipped 4 end-to-end AI projects as a 2nd-year student"
 
     def motto(self):
         return "Build fast. Learn faster. Ship what matters."
@@ -96,35 +87,28 @@ print(me.motto())
 
 **AI / ML / Agentic**
 
-![CrewAI](https://img.shields.io/badge/CrewAI-BF91F3?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PC9zdmc+&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![N8N](https://img.shields.io/badge/N8N-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 
-**Tools & DevOps**
+**Tools**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![N8N](https://img.shields.io/badge/N8N-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 
 ---
 
 ## 📊 GitHub Stats
 
-> ⚠️ **Replace `YOUR_GITHUB_USERNAME` below with your exact GitHub username (case-sensitive)**
-
 <div align="center">
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=vishnu7443&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10" />
-</a>
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishnu7443&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10" />
-</a>
+![Vishnu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vishnu7443&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vishnu7443&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10)
 
 </div>
 
@@ -134,7 +118,7 @@ print(me.motto())
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=vishnu7443&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10)](https://github.com/YOUR_GITHUB_USERNAME)
+![GitHub Streak](https://streak-stats.demolab.com?user=vishnu7443&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10)
 
 </div>
 
@@ -144,7 +128,7 @@ print(me.motto())
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vishnu7443&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)](https://github.com/vishnu7443)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vishnu7443&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)
 
 </div>
 
@@ -154,7 +138,7 @@ print(me.motto())
 
 <div align="center">
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=vishnu7443&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4)](https://github.com/vishnu7443)
+![Trophies](https://github-profile-trophy.vercel.app/?username=vishnu7443&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4)
 
 </div>
 
@@ -169,8 +153,8 @@ print(me.motto())
 
 > ![React](https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-- ⚡ Engineered **8 responsive React.js pages and components** with reusable architecture, cutting estimated feature-build time by **~30%** across the project.
-- 🚀 Optimised the critical rendering path using lazy loading and code splitting, improving **Lighthouse performance scores by 20+ points**.
+- ⚡ Engineered **8 responsive React.js pages and components** with reusable architecture, cutting feature-build time by **~30%**.
+- 🚀 Optimised the critical rendering path using lazy loading and code splitting, improving **Lighthouse scores by 20+ points**.
 - 📦 Delivered **3 reusable UI component libraries** (modals, forms, nav) adopted across multiple client-facing views.
 
 </details>
@@ -183,7 +167,7 @@ print(me.motto())
 
 | Project | Stack | Highlights |
 |:--------|:------|:-----------|
-| 🤖 AI Predictive Analytics System | Python · Scikit-learn · Pandas · React.js | Random Forest **87% accuracy**; beat baseline by **12%**; overfitting gap cut from **18% → <5%** |
+| 🤖 AI Predictive Analytics System | Python · Scikit-learn · Pandas · React.js | Random Forest **87% accuracy**; beat baseline by **12%**; overfitting gap cut **18% → <5%** |
 | 📚 AI-Based Learning Assistant | React.js · Firebase · Tailwind CSS · LLM | Adaptive CSE platform; Firebase Auth + Firestore; **~35% CSS bundle reduction** |
 | 🗺️ Real-Time Career Roadmap Generator | React.js · Node.js · Firebase | Personalised roadmaps in **under 3 seconds**; scalable REST API |
 | 🛒 E-Commerce Recommendation System | React.js · Python · ML | Collaborative-filtering engine; real-time preference updates |
@@ -238,8 +222,8 @@ print(me.motto())
 
 [![LinkedIn](https://img.shields.io/badge/Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vishnu-vardhan-r-g-776299412)
 [![Email](https://img.shields.io/badge/Say_Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:visshnu2007@gmail.com)
-[![GitHub](https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
+[![GitHub](https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vishnu7443)
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=120&amp;section=footer&amp;animation=twinkling" />
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling)
