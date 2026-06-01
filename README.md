@@ -1,21 +1,21 @@
 <div align="center">
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 180" width="100%">
   <defs>
-    <linearGradient id="wave-grad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%"   stop-color="#0d1117"/>
-      <stop offset="40%"  stop-color="#1a1b4b"/>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="40%" stop-color="#1a1b4b"/>
       <stop offset="100%" stop-color="#0d1117"/>
     </linearGradient>
-    <linearGradient id="text-grad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%"   stop-color="#70a5fd"/>
+    <linearGradient id="tg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#70a5fd"/>
       <stop offset="100%" stop-color="#bf91f3"/>
     </linearGradient>
   </defs>
-  <rect width="900" height="180" fill="url(#wave-grad)"/>
+  <rect width="900" height="180" fill="url(#bg)"/>
   <path d="M0,120 C150,80 300,160 450,120 C600,80 750,160 900,120 L900,180 L0,180 Z" fill="#0d1117" opacity="0.6"/>
-  <path d="M0,140 C200,100 400,170 600,130 C750,100 850,150 900,140 L900,180 L0,180 Z" fill="#0d1117" opacity="0.8"/>
-  <text x="450" y="72" font-family="'Segoe UI', Arial, sans-serif" font-size="40" font-weight="700" fill="url(#text-grad)" text-anchor="middle">Vishnu Vardhan R G</text>
-  <text x="450" y="110" font-family="'Segoe UI', Arial, sans-serif" font-size="16" fill="#8b949e" text-anchor="middle">Full-Stack Developer &amp; AI/ML Engineer · Building at the intersection of AI and the Web</text>
+  <path d="M0,140 C200,100 400,170 600,130 C750,100 850,150 900,140 L900,180 L0,180 Z" fill="#0d1117" opacity="0.9"/>
+  <text x="450" y="72" font-family="Segoe UI,Arial,sans-serif" font-size="40" font-weight="700" fill="url(#tg)" text-anchor="middle">Vishnu Vardhan R G</text>
+  <text x="450" y="112" font-family="Segoe UI,Arial,sans-serif" font-size="15" fill="#8b949e" text-anchor="middle">Full-Stack Developer &amp; AI/ML Engineer · Building at the intersection of AI and the Web</text>
 </svg>
 </div>
 
@@ -126,10 +126,16 @@ print(me.motto())
 
 ## 📊 GitHub Stats
 
+<!-- 
+  NOTE: github-readme-stats.vercel.app is currently DOWN (DEPLOYMENT_PAUSED).
+  Using the self-hosted mirror below. If still broken, deploy your own:
+  https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own
+-->
+
 <div align="center">
 
-![Vishnu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vishnu7443&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vishnu7443&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10)
+![Vishnu's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=vishnu7443&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vishnu7443&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10)
 
 </div>
 
@@ -155,11 +161,18 @@ print(me.motto())
 
 ---
 
-## 🏆 Trophy Wall
+## 🏆 Achievements & Trophies
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=vishnu7443&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4)
+| 🏆 | Achievement | Details |
+|:--:|:------------|:--------|
+| 🎓 | **Top Academic Cohort** | Sustained **9.3 / 10.0 CGPA** across all semesters at SRIT |
+| 🚀 | **Prolific Builder** | Shipped **4 AI/full-stack projects end-to-end** as a 2nd-year student |
+| ⚔️ | **Hackathon Competitor** | Competed at **MUJ HackX 3.0**, Manipal University Jaipur |
+| 💻 | **Competitive Programmer** | Active on **LeetCode & HackerRank** across DSA |
+| 📜 | **Certified AI Engineer** | Agentic AI · RAG · Claude AI · N8N · ML A-Z |
+| ⭐ | **Multi-Domain Builder** | ML + Agentic AI + Full-Stack React in parallel as a 2nd-year |
 
 </div>
 
@@ -192,22 +205,6 @@ print(me.motto())
 | 📚 AI-Based Learning Assistant | React.js · Firebase · Tailwind CSS · LLM | Adaptive CSE platform; Firebase Auth + Firestore; **~35% CSS bundle reduction** |
 | 🗺️ Real-Time Career Roadmap Generator | React.js · Node.js · Firebase | Personalised roadmaps in **under 3 seconds**; scalable REST API |
 | 🛒 E-Commerce Recommendation System | React.js · Python · ML | Collaborative-filtering engine; real-time preference updates |
-
-</div>
-
----
-
-## 🏅 Achievements
-
-<div align="center">
-
-| 🏆 | Achievement | Details |
-|:--:|:------------|:--------|
-| 🎓 | **Top Academic Cohort** | Sustained **9.3 / 10.0 CGPA** across all semesters at SRIT |
-| 🚀 | **Prolific Builder** | Shipped **4 AI/full-stack projects end-to-end** as a 2nd-year student |
-| ⚔️ | **Hackathon Competitor** | Competed at **MUJ HackX 3.0**, Manipal University Jaipur |
-| 💻 | **Competitive Programmer** | Active on **LeetCode & HackerRank** across DSA |
-| 📜 | **Certified AI Engineer** | Agentic AI · RAG · Claude AI · N8N · ML A-Z |
 
 </div>
 
@@ -250,14 +247,14 @@ print(me.motto())
 <div align="center">
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 120" width="100%">
   <defs>
-    <linearGradient id="footer-grad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%"   stop-color="#0d1117"/>
-      <stop offset="40%"  stop-color="#1a1b4b"/>
+    <linearGradient id="fg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="40%" stop-color="#1a1b4b"/>
       <stop offset="100%" stop-color="#0d1117"/>
     </linearGradient>
   </defs>
-  <rect width="900" height="120" fill="url(#footer-grad)"/>
+  <rect width="900" height="120" fill="url(#fg)"/>
   <path d="M0,40 C150,80 300,0 450,40 C600,80 750,0 900,40 L900,0 L0,0 Z" fill="#0d1117" opacity="0.6"/>
-  <path d="M0,20 C200,60 400,0 600,30 C750,50 850,10 900,20 L900,0 L0,0 Z" fill="#0d1117" opacity="0.8"/>
+  <path d="M0,20 C200,60 400,0 600,30 C750,50 850,10 900,20 L900,0 L0,0 Z" fill="#0d1117" opacity="0.9"/>
 </svg>
 </div>
