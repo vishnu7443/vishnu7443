@@ -1,14 +1,16 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Vishnu%20Vardhan%20R%20G&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%26%20AI%2FML%20Engineer%20%7C%20Building%20at%20the%20intersection%20of%20AI%20and%20the%20Web&descAlignY=62&descSize=16" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=180&amp;section=header&amp;text=Vishnu%20Vardhan%20R%20G&amp;fontSize=42&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=32&amp;desc=Full-Stack%20Developer%20%26%20AI%2FML%20Engineer%20%7C%20Building%20at%20the%20intersection%20of%20AI%20%26%20the%20Web&amp;descAlignY=62&amp;descSize=16" />
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+Vishnu+%F0%9F%91%8B;Full-Stack+Dev+%7C+AI%2FML+Engineer;Agentic+AI+%7C+RAG+%7C+LLM+Builder;2nd-Year+CSE+%40+SRIT+%7C+CGPA+9.3%2F10)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+Vishnu+Vardhan+%F0%9F%91%8B;Full-Stack+Dev+%7C+AI%2FML+Engineer;Agentic+AI+%7C+RAG+%7C+LLM+Builder;2nd-Year+CSE+%40+SRIT+%7C+CGPA+9.3%2F10)](https://git.io/typing-svg)
+
+<br/>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=vishnu7443&color=70a5fd&style=flat-square&label=Profile+Views)](https://github.com/vishnu7443)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/vishnu-vardhan-r-g-776299412)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/)
-[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=flat-square&logo=hackerrank&logoColor=black)](https://hackerrank.com/)
-[![Gmail](https://img.shields.io/badge/visshnu2007@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:visshnu2007@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/visshnu2007/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=flat-square&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/profile/visshnu2007)
+[![Gmail](https://img.shields.io/badge/visshnu2007%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:visshnu2007@gmail.com)
 
 </div>
 
@@ -16,14 +18,14 @@
 
 ## 🧑‍💻 About Me
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<img align="right" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
 ```python
 class VishnuVardhan:
     def __init__(self):
         self.name        = "Vishnu Vardhan R G"
-        self.location    = "Tamil Nadu, India 🇮🇳"
-        self.degree      = "B.E. CSE @ SRIT (2024–2028) | CGPA: 9.3"
+        self.location    = "Tamil Nadu, India"
+        self.degree      = "B.E. CSE @ SRIT (2024-2028) | CGPA: 9.3"
         self.role        = "Full-Stack Developer & AI/ML Engineer"
 
         self.stack = [
@@ -32,29 +34,29 @@ class VishnuVardhan:
         ]
 
         self.currentlyBuilding = [
-            "ContextFlow — Agentic RAG with persistent memory",
+            "ContextFlow -- Agentic RAG + persistent memory",
             "Developer Portfolio v2 (Neural Web aesthetic)"
         ]
 
         self.currentlyLearning = [
-            "Gemini API + Vector DBs (Qdrant)",
+            "Gemini API + Qdrant Vector DB",
             "Agentic Orchestration Patterns",
             "Next.js App Router + Server Actions"
         ]
 
         self.certifications = [
-            "Agentic AI — Hugging Face",
-            "RAG — Google Skills",
-            "Claude AI — Anthropic",
+            "Agentic AI -- Hugging Face",
+            "RAG -- Google Skills",
+            "Claude AI -- Anthropic",
             "N8N Workflow Automation"
         ]
 
     @property
     def fun_fact(self):
-        return "I shipped 4 end-to-end AI/full-stack projects as a 2nd-year student 🚀"
+        return "I shipped 4 end-to-end AI projects as a 2nd-year student"
 
     def motto(self):
-        return "Build fast. Learn faster. Ship what matters. ⚡"
+        return "Build fast. Learn faster. Ship what matters."
 
 me = VishnuVardhan()
 print(me.motto())
@@ -94,8 +96,8 @@ print(me.motto())
 
 **AI / ML / Agentic**
 
-![CrewAI](https://img.shields.io/badge/CrewAI-BF91F3?style=flat-square&logo=ai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![CrewAI](https://img.shields.io/badge/CrewAI-BF91F3?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PC9zdmc+&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
@@ -113,13 +115,15 @@ print(me.motto())
 
 ## 📊 GitHub Stats
 
+> ⚠️ **Replace `YOUR_GITHUB_USERNAME` below with your exact GitHub username (case-sensitive)**
+
 <div align="center">
 
-<a href="https://github.com/vishnu7443">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=vishnu7443&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10" />
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10" />
 </a>
-<a href="https://github.com/vishnu7443">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishnu7443&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10" />
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10" />
 </a>
 
 </div>
@@ -130,7 +134,7 @@ print(me.motto())
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=vishnu7443&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10)](https://github.com/vishnu7443)
+[![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10)](https://github.com/YOUR_GITHUB_USERNAME)
 
 </div>
 
@@ -140,7 +144,7 @@ print(me.motto())
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vishnu7443&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)](https://github.com/vishnu7443)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)](https://github.com/YOUR_GITHUB_USERNAME)
 
 </div>
 
@@ -150,7 +154,7 @@ print(me.motto())
 
 <div align="center">
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=vishnu7443&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4)](https://github.com/vishnu7443)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4)](https://github.com/YOUR_GITHUB_USERNAME)
 
 </div>
 
@@ -179,10 +183,10 @@ print(me.motto())
 
 | Project | Stack | Highlights |
 |:--------|:------|:-----------|
-| [🤖 AI Predictive Analytics System](https://github.com/vishnu7443) | Python · Scikit-learn · Pandas · React.js | Random Forest achieved **87% accuracy**; beat baseline by **12%**; reduced overfitting gap from **18% → <5%** via GridSearchCV |
-| [📚 AI-Based Learning Assistant](https://github.com/vishnu7443) | React.js · Firebase · Tailwind CSS · LLM | Adaptive CSE learning platform; Firebase Auth + Firestore; **~35% CSS bundle reduction** with Tailwind |
-| [🗺️ Real-Time Career Roadmap Generator](https://github.com/vishnu7443) | React.js · Node.js · Firebase | Generates personalised career roadmaps in **under 3 seconds**; scalable REST API with Firebase-backed persistence |
-| [🛒 E-Commerce Recommendation System](https://github.com/vishnu7443) | React.js · Python · ML | Collaborative-filtering engine; real-time preference updates; interactive React product grid |
+| 🤖 AI Predictive Analytics System | Python · Scikit-learn · Pandas · React.js | Random Forest **87% accuracy**; beat baseline by **12%**; overfitting gap cut from **18% → <5%** |
+| 📚 AI-Based Learning Assistant | React.js · Firebase · Tailwind CSS · LLM | Adaptive CSE platform; Firebase Auth + Firestore; **~35% CSS bundle reduction** |
+| 🗺️ Real-Time Career Roadmap Generator | React.js · Node.js · Firebase | Personalised roadmaps in **under 3 seconds**; scalable REST API |
+| 🛒 E-Commerce Recommendation System | React.js · Python · ML | Collaborative-filtering engine; real-time preference updates |
 
 </div>
 
@@ -195,10 +199,10 @@ print(me.motto())
 | 🏆 | Achievement | Details |
 |:--:|:------------|:--------|
 | 🎓 | **Top Academic Cohort** | Sustained **9.3 / 10.0 CGPA** across all semesters at SRIT |
-| 🚀 | **Prolific Builder** | Shipped **4 AI/full-stack projects end-to-end** as a 2nd-year student spanning ML, Agentic AI & production React |
-| ⚔️ | **Hackathon Competitor** | Competed at **MUJ HackX 3.0**, Manipal University Jaipur — one of India's ranked student hackathons |
-| 💻 | **Competitive Programmer** | Active on **LeetCode & HackerRank**; consistent problem-solving across DSA |
-| 📜 | **Certified AI Engineer** | Certified in Agentic AI (HuggingFace), RAG (Google), Claude AI (Anthropic), N8N, ML A-Z |
+| 🚀 | **Prolific Builder** | Shipped **4 AI/full-stack projects end-to-end** as a 2nd-year student |
+| ⚔️ | **Hackathon Competitor** | Competed at **MUJ HackX 3.0**, Manipal University Jaipur |
+| 💻 | **Competitive Programmer** | Active on **LeetCode & HackerRank** across DSA |
+| 📜 | **Certified AI Engineer** | Agentic AI · RAG · Claude AI · N8N · ML A-Z |
 
 </div>
 
@@ -234,8 +238,8 @@ print(me.motto())
 
 [![LinkedIn](https://img.shields.io/badge/Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vishnu-vardhan-r-g-776299412)
 [![Email](https://img.shields.io/badge/Say_Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:visshnu2007@gmail.com)
-[![GitHub](https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vishnu7443)
+[![GitHub](https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=120&amp;section=footer&amp;animation=twinkling" />
