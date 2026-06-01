@@ -1,116 +1,241 @@
-![](https://komarev.com/ghpvc/?username=vishnu7443&color=1D9E75&style=flat&label=Profile+Views)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Vishnu%20Vardhan%20R%20G&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%26%20AI%2FML%20Engineer%20%7C%20Building%20at%20the%20intersection%20of%20AI%20and%20the%20Web&descAlignY=62&descSize=16" />
 
-<h1 align="center">Hey, I'm Vishnu Vardhan R G 👋</h1>
+<div align="center">
 
-<p align="center">
-  Full-Stack Developer & AI/ML Engineer · Tamil Nadu, India<br/>
-  Building agentic systems with CrewAI, N8N & LLMs — not just demos.<br/>
-  <strong>Open to remote internships & freelance AI automation projects</strong>
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+Vishnu+%F0%9F%91%8B;Full-Stack+Dev+%7C+AI%2FML+Engineer;Agentic+AI+%7C+RAG+%7C+LLM+Builder;2nd-Year+CSE+%40+SRIT+%7C+CGPA+9.3%2F10)](https://git.io/typing-svg)
 
-<p align="center">
-  <a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white"/></a>
-  <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Open%20to-Internships-1D9E75?style=flat"/>
-  <img src="https://img.shields.io/badge/Remote-Friendly-0F6E56?style=flat"/>
-</p>
+[![Profile Views](https://komarev.com/ghpvc/?username=vishnu7443&color=70a5fd&style=flat-square&label=Profile+Views)](https://github.com/vishnu7443)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/vishnu-vardhan-r-g-776299412)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=flat-square&logo=hackerrank&logoColor=black)](https://hackerrank.com/)
+[![Gmail](https://img.shields.io/badge/visshnu2007@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:visshnu2007@gmail.com)
+
+</div>
 
 ---
 
-### 🟢 What I'm Up To Right Now
+## 🧑‍💻 About Me
 
-- 🤖 Building multi-agent AI workflows with **CrewAI + N8N**
-- 🧠 Going deeper into **production ML pipelines** and agentic architectures
-- 💼 Actively seeking **remote internships** and **freelance AI/automation work**
-- 🎓 2nd Year CS Student · Google Certified · Claude AI Certified · N8N Certified
+<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+
+```python
+class VishnuVardhan:
+    def __init__(self):
+        self.name        = "Vishnu Vardhan R G"
+        self.location    = "Tamil Nadu, India 🇮🇳"
+        self.degree      = "B.E. CSE @ SRIT (2024–2028) | CGPA: 9.3"
+        self.role        = "Full-Stack Developer & AI/ML Engineer"
+
+        self.stack = [
+            "React.js", "Node.js", "Python",
+            "CrewAI", "LangChain", "LLMs", "RAG"
+        ]
+
+        self.currentlyBuilding = [
+            "ContextFlow — Agentic RAG with persistent memory",
+            "Developer Portfolio v2 (Neural Web aesthetic)"
+        ]
+
+        self.currentlyLearning = [
+            "Gemini API + Vector DBs (Qdrant)",
+            "Agentic Orchestration Patterns",
+            "Next.js App Router + Server Actions"
+        ]
+
+        self.certifications = [
+            "Agentic AI — Hugging Face",
+            "RAG — Google Skills",
+            "Claude AI — Anthropic",
+            "N8N Workflow Automation"
+        ]
+
+    @property
+    def fun_fact(self):
+        return "I shipped 4 end-to-end AI/full-stack projects as a 2nd-year student 🚀"
+
+    def motto(self):
+        return "Build fast. Learn faster. Ship what matters. ⚡"
+
+me = VishnuVardhan()
+print(me.motto())
+```
+
+<br clear="right"/>
 
 ---
 
-### 🚀 Featured Projects
+## 🛠️ Tech Stack
 
-| Project | What It Does | Stack |
-|---------|-------------|-------|
-| 🧾 **Smart Resume Generator** | Parses a job description with AI and generates a fully tailored resume in seconds | Node.js · Python · CrewAI · LLM |
-| 🧠 **SmartStudy** | AI tool that auto-generates quizzes & summaries from study material | React · Python · LLM · AI/ML |
+**Languages**
 
-> 💡 Both projects built by a 2nd year student — real products, not tutorial clones.
-
----
-
-### 🛠 Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 
 **Frontend**
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 
-**Backend & Database**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+![React](https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
-**AI / Agentic Stack**
-![CrewAI](https://img.shields.io/badge/CrewAI-8B5CF6?style=flat)
-![N8N](https://img.shields.io/badge/N8N-EA4B71?style=flat&logo=n8n&logoColor=white)
-![Claude AI](https://img.shields.io/badge/Claude_AI-CC785C?style=flat)
-![Generative AI](https://img.shields.io/badge/Generative_AI-412991?style=flat&logo=openai&logoColor=white)
+**Backend & Databases**
 
----
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-### 📊 GitHub Stats
+**AI / ML / Agentic**
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vishnu7443&theme=github_dark" width="32%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vishnu7443&theme=github_dark&utcOffset=5.5" width="32%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vishnu7443&theme=github_dark" width="32%"/>
-</p>
+![CrewAI](https://img.shields.io/badge/CrewAI-BF91F3?style=flat-square&logo=ai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vishnu7443&theme=github_dark" width="98%"/>
-</p>
+**Tools & DevOps**
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=vishnu7443&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="60%"/>
-</p>
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![N8N](https://img.shields.io/badge/N8N-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 
 ---
 
-### 🐍 Contribution Snake
+## 📊 GitHub Stats
 
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/vishnu7443/vishnu7443/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/vishnu7443/vishnu7443/output/github-snake.svg"/>
-  <img alt="contribution snake"
-    src="https://raw.githubusercontent.com/vishnu7443/vishnu7443/output/github-snake.svg"/>
-</picture>
+<div align="center">
 
----
+<a href="https://github.com/vishnu7443">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=vishnu7443&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10" />
+</a>
+<a href="https://github.com/vishnu7443">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishnu7443&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10" />
+</a>
 
-### 🏆 Certifications
-
-| Badge | Issued By |
-|-------|-----------|
-| ✅ Essential Google Skills | Google |
-| ✅ Claude AI Certification | Anthropic |
-| ✅ N8N Workflow Automation | N8N |
+</div>
 
 ---
 
-### 📫 Let's Connect
+## 🔥 Streak Stats
 
-> I'm a 2nd year CS student building real AI products. If you're looking for someone who ships — let's talk.
+<div align="center">
 
-<p align="center">
-  <a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel&logoColor=white"/></a>
-  <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=vishnu7443&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10)](https://github.com/vishnu7443)
 
-<p align="center"><i>Open to remote internships & freelance AI automation projects · Let's build something real.</i></p>
+</div>
+
+---
+
+## 📈 Activity Graph
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vishnu7443&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)](https://github.com/vishnu7443)
+
+</div>
+
+---
+
+## 🏆 Trophy Wall
+
+<div align="center">
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=vishnu7443&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4)](https://github.com/vishnu7443)
+
+</div>
+
+---
+
+## 💼 Work Experience
+
+<details>
+<summary><b>🏢 Corizo — Frontend Developer Intern &nbsp;|&nbsp; 2025 &nbsp;|&nbsp; Remote</b></summary>
+
+<br/>
+
+> ![React](https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+- ⚡ Engineered **8 responsive React.js pages and components** with reusable architecture, cutting estimated feature-build time by **~30%** across the project.
+- 🚀 Optimised the critical rendering path using lazy loading and code splitting, improving **Lighthouse performance scores by 20+ points**.
+- 📦 Delivered **3 reusable UI component libraries** (modals, forms, nav) adopted across multiple client-facing views.
+
+</details>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+| Project | Stack | Highlights |
+|:--------|:------|:-----------|
+| [🤖 AI Predictive Analytics System](https://github.com/vishnu7443) | Python · Scikit-learn · Pandas · React.js | Random Forest achieved **87% accuracy**; beat baseline by **12%**; reduced overfitting gap from **18% → <5%** via GridSearchCV |
+| [📚 AI-Based Learning Assistant](https://github.com/vishnu7443) | React.js · Firebase · Tailwind CSS · LLM | Adaptive CSE learning platform; Firebase Auth + Firestore; **~35% CSS bundle reduction** with Tailwind |
+| [🗺️ Real-Time Career Roadmap Generator](https://github.com/vishnu7443) | React.js · Node.js · Firebase | Generates personalised career roadmaps in **under 3 seconds**; scalable REST API with Firebase-backed persistence |
+| [🛒 E-Commerce Recommendation System](https://github.com/vishnu7443) | React.js · Python · ML | Collaborative-filtering engine; real-time preference updates; interactive React product grid |
+
+</div>
+
+---
+
+## 🏅 Achievements
+
+<div align="center">
+
+| 🏆 | Achievement | Details |
+|:--:|:------------|:--------|
+| 🎓 | **Top Academic Cohort** | Sustained **9.3 / 10.0 CGPA** across all semesters at SRIT |
+| 🚀 | **Prolific Builder** | Shipped **4 AI/full-stack projects end-to-end** as a 2nd-year student spanning ML, Agentic AI & production React |
+| ⚔️ | **Hackathon Competitor** | Competed at **MUJ HackX 3.0**, Manipal University Jaipur — one of India's ranked student hackathons |
+| 💻 | **Competitive Programmer** | Active on **LeetCode & HackerRank**; consistent problem-solving across DSA |
+| 📜 | **Certified AI Engineer** | Certified in Agentic AI (HuggingFace), RAG (Google), Claude AI (Anthropic), N8N, ML A-Z |
+
+</div>
+
+---
+
+## 🎓 Education
+
+<div align="center">
+
+| Degree | Institution | Year | Score |
+|:-------|:------------|:----:|:-----:|
+| B.E. / B.Tech — Computer Science Engineering | Sri Ramakrishna Institute of Technology, Tamil Nadu | 2024 – 2028 | **9.3 / 10.0** |
+
+</div>
+
+---
+
+## 🧱 Currently Learning
+
+```
+🤖 Agentic RAG  → Qdrant Vector DB · Gemini Embeddings · Persistent Memory
+🧠 LLM Patterns → Query Classification · Tool Registries · Agent Orchestration
+⚡ Next.js 14   → App Router · Server Actions · React Server Components
+🔗 LangChain    → Advanced Chains · Memory · Multi-Agent Systems
+🛠️ DevOps       → Docker · CI/CD Pipelines · Cloud Deployment
+```
+
+---
+
+<div align="center">
+
+*"Build fast. Learn faster. Ship what matters."*
+
+[![LinkedIn](https://img.shields.io/badge/Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vishnu-vardhan-r-g-776299412)
+[![Email](https://img.shields.io/badge/Say_Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:visshnu2007@gmail.com)
+[![GitHub](https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vishnu7443)
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" />
