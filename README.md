@@ -1,8 +1,29 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Vishnu%20Vardhan%20R%20G&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%26%20AI%2FML%20Engineer&descAlignY=62&descSize=18)
+<div align="center">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 180" width="100%">
+  <defs>
+    <linearGradient id="wave-grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%"   stop-color="#0d1117"/>
+      <stop offset="40%"  stop-color="#1a1b4b"/>
+      <stop offset="100%" stop-color="#0d1117"/>
+    </linearGradient>
+    <linearGradient id="text-grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%"   stop-color="#70a5fd"/>
+      <stop offset="100%" stop-color="#bf91f3"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="180" fill="url(#wave-grad)"/>
+  <path d="M0,120 C150,80 300,160 450,120 C600,80 750,160 900,120 L900,180 L0,180 Z" fill="#0d1117" opacity="0.6"/>
+  <path d="M0,140 C200,100 400,170 600,130 C750,100 850,150 900,140 L900,180 L0,180 Z" fill="#0d1117" opacity="0.8"/>
+  <text x="450" y="72" font-family="'Segoe UI', Arial, sans-serif" font-size="40" font-weight="700" fill="url(#text-grad)" text-anchor="middle">Vishnu Vardhan R G</text>
+  <text x="450" y="110" font-family="'Segoe UI', Arial, sans-serif" font-size="16" fill="#8b949e" text-anchor="middle">Full-Stack Developer &amp; AI/ML Engineer · Building at the intersection of AI and the Web</text>
+</svg>
+</div>
 
 <div align="center">
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+Vishnu+Vardhan!;Full-Stack+Dev+%7C+AI%2FML+Engineer;Agentic+AI+%7C+RAG+%7C+LLM+Builder;2nd-Year+CSE+%40+SRIT+%7C+CGPA+9.3%2F10)
+
+<br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=vishnu7443&color=70a5fd&style=flat-square&label=Profile+Views)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/vishnu-vardhan-r-g-776299412)
@@ -167,7 +188,7 @@ print(me.motto())
 
 | Project | Stack | Highlights |
 |:--------|:------|:-----------|
-| 🤖 AI Predictive Analytics System | Python · Scikit-learn · Pandas · React.js | Random Forest **87% accuracy**; beat baseline by **12%**; overfitting gap cut **18% → <5%** |
+| 🤖 AI Predictive Analytics System | Python · Scikit-learn · Pandas · React.js | Random Forest **87% accuracy**; beat baseline by **12%**; overfitting gap **18% → <5%** |
 | 📚 AI-Based Learning Assistant | React.js · Firebase · Tailwind CSS · LLM | Adaptive CSE platform; Firebase Auth + Firestore; **~35% CSS bundle reduction** |
 | 🗺️ Real-Time Career Roadmap Generator | React.js · Node.js · Firebase | Personalised roadmaps in **under 3 seconds**; scalable REST API |
 | 🛒 E-Commerce Recommendation System | React.js · Python · ML | Collaborative-filtering engine; real-time preference updates |
@@ -226,4 +247,17 @@ print(me.motto())
 
 </div>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling)
+<div align="center">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 120" width="100%">
+  <defs>
+    <linearGradient id="footer-grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%"   stop-color="#0d1117"/>
+      <stop offset="40%"  stop-color="#1a1b4b"/>
+      <stop offset="100%" stop-color="#0d1117"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="120" fill="url(#footer-grad)"/>
+  <path d="M0,40 C150,80 300,0 450,40 C600,80 750,0 900,40 L900,0 L0,0 Z" fill="#0d1117" opacity="0.6"/>
+  <path d="M0,20 C200,60 400,0 600,30 C750,50 850,10 900,20 L900,0 L0,0 Z" fill="#0d1117" opacity="0.8"/>
+</svg>
+</div>
