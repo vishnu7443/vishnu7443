@@ -29,35 +29,3 @@
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png"></code>
-  
-  [![Stats](https://github-readme-stats-fork-orpin.vercel.app/api?username=vishnu7443&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=vishnu7443&show_icons=true&theme=radical)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/saved.gif" width="195">
-  
-  [![trophy](https://github-profile-trophy-fork-two.vercel.app/?username=vishnu7443&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)](https://github-profile-trophy.vercel.app/?username=vishnu7443&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)
-  
-  ##### I am currently aiming to reach ELO 1800 blitz on chess.com ⚡. Here is an ascii tracker of my 100 previous chess.com blitz games.
-
-  ```
-  # ♟︎ Chess.com Ratings Chart #
-  
-  Blitz Rating
- 1702.00  ┤
- 1688.75  ┤                                                                                        ╭╮     ╭╮╭╮
- 1675.50  ┤                                                                                  ╭╮    │╰╮  ╭╮││││
- 1662.25  ┤                                                                                  │╰╮  ╭╯ ╰╮╭╯╰╯╰╯╰
- 1649.00  ┤                                                                                  │ │ ╭╯   ││
- 1635.75  ┤                                                                               ╭╮╭╯ ╰╮│    ╰╯
- 1622.50  ┤                                                                               │││   ╰╯
- 1609.25  ┤                                                                      ╭╮   ╭╮  │╰╯
- 1596.00  ┤                                                                    ╭─╯╰───╯╰╮╭╯
- 1582.75  ┤                                                              ╭╮╭───╯        ╰╯
- 1569.50  ┤      ╭╮                                                    ╭─╯╰╯
- 1556.25  ┤ ╭╮╭╮╭╯╰───╮                                 ╭╮╭╮╭╮╭─╮╭─╮  ╭╯
- 1543.00  ┼─╯╰╯╰╯     ╰─╮  ╭───╮          ╭╮╭──╮╭──╮  ╭─╯╰╯╰╯╰╯ ╰╯ ╰──╯
- 1529.75  ┤             ╰╮╭╯   ╰─╮       ╭╯╰╯  ╰╯  ╰╮╭╯
- 1516.50  ┤              ╰╯      ╰─╮   ╭─╯          ╰╯
- 1503.25  ┤                        ╰─╮╭╯
- 1490.00  ┤                          ╰╯
-
-Chart last updated - Mon Jul 27 02:18:04 EDT 2026  
-  ```
-  
