@@ -1,206 +1,275 @@
-# 🚀 Vishnu Vardhan R G --- GitHub Profile README
+<div align="center">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 180" width="100%">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="40%" stop-color="#1a1b4b"/>
+      <stop offset="100%" stop-color="#0d1117"/>
+    </linearGradient>
+    <linearGradient id="tg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#70a5fd"/>
+      <stop offset="100%" stop-color="#bf91f3"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="180" fill="url(#bg)"/>
+  <path d="M0,120 C150,80 300,160 450,120 C600,80 750,160 900,120 L900,180 L0,180 Z" fill="#0d1117" opacity="0.6"/>
+  <path d="M0,140 C200,100 400,170 600,130 C750,100 850,150 900,140 L900,180 L0,180 Z" fill="#0d1117" opacity="0.9"/>
+  <text x="450" y="72" font-family="Segoe UI,Arial,sans-serif" font-size="40" font-weight="700" fill="url(#tg)" text-anchor="middle">Vishnu Vardhan R G</text>
+  <text x="450" y="112" font-family="Segoe UI,Arial,sans-serif" font-size="15" fill="#8b949e" text-anchor="middle">Full-Stack Developer &amp; AI/ML Engineer · Building at the intersection of AI and the Web</text>
+</svg>
+</div>
 
-> **Modern 2026 Premium GitHub README Template**
+<div align="center">
 
-> **Note:** Replace `YOUR_USERNAME`, portfolio links, and project URLs
-> with your own.
 
-------------------------------------------------------------------------
 
-::: {align="center"}
-# 👋 Hey, I'm Vishnu Vardhan R G
+<br/>
 
-### Building AI products that people actually use.
 
-**Full Stack • Agentic AI • Cloud • Open Source**
 
-`<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=24&duration=3000&pause=1200&color=70A5FD&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;AI%2FML+Engineer;Agentic+AI+Builder;Always+Learning+Something+New"/>`{=html}
+</div>
 
-`<br/>`{=html}
+🧑‍💻 About Me
 
-`<a href="https://your-portfolio.com">`{=html}
-`<img src="https://img.shields.io/badge/🌐%20Portfolio-Live-6C63FF?style=for-the-badge"/>`{=html}
-`</a>`{=html}
+<img align="right" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
-`<a href="https://linkedin.com/in/your-link">`{=html}
-`<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin"/>`{=html}
-`</a>`{=html}
+class VishnuVardhan:
+    def __init__(self):
+        self.name        = "Vishnu Vardhan R G"
+        self.location    = "Tamil Nadu, India"
+        self.degree      = "B.E. CSE @ SRIT (2024-2028) | CGPA: 9.3"
+        self.role        = "Full-Stack Developer & AI/ML Engineer"
 
-`<a href="mailto:visshnu2007@gmail.com">`{=html}
-`<img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail"/>`{=html}
-`</a>`{=html}
-:::
+        self.stack = [
+            "React.js", "Node.js", "Python",
+            "CrewAI", "LangChain", "LLMs", "RAG"
+        ]
 
-------------------------------------------------------------------------
+        self.currentlyBuilding = [
+            "ContextFlow -- Agentic RAG with persistent memory",
+            "Developer Portfolio v2 (Neural Web aesthetic)"
+        ]
 
-# 🚀 About Me
+        self.currentlyLearning = [
+            "Gemini API + Qdrant Vector DB",
+            "Agentic Orchestration Patterns",
+            "Next.js App Router + Server Actions"
+        ]
 
-```{=html}
-<table>
-```
-```{=html}
-<tr>
-```
-```{=html}
-<td width="50%">
-```
-## 👨‍💻 Building
+    @property
+    def fun_fact(self):
+        return "Shipped 4 end-to-end AI projects as a 2nd-year student"
 
--   ContextFlow
--   AI Infrastructure
--   Full Stack SaaS
--   Portfolio v2
+    def motto(self):
+        return "Build fast. Learn faster. Ship what matters."
 
-```{=html}
-</td>
-```
-```{=html}
-<td width="50%">
-```
-## 📚 Learning
+me = VishnuVardhan()
+print(me.motto())
 
--   Kubernetes
--   AWS
--   LangGraph
--   DevOps
+<br clear="right"/>
 
-```{=html}
-</td>
-```
-```{=html}
-</tr>
-```
-```{=html}
-<tr>
-```
-```{=html}
-<td>
-```
-## 🎯 Goal
+🛠️ Tech Stack
 
-Become an AI Infrastructure Engineer.
+Languages
 
-```{=html}
-</td>
-```
-```{=html}
-<td>
-```
-## ⚡ Fun Fact
 
-Love building products more than tutorials.
 
-```{=html}
-</td>
-```
-```{=html}
-</tr>
-```
-```{=html}
-</table>
-```
+Frontend
 
-------------------------------------------------------------------------
 
-# 🛠 Tech Stack
 
-::: {align="center"}
-`<img src="https://skillicons.dev/icons?i=python,java,javascript,react,nextjs,nodejs,express,mongodb,postgres,mysql,docker,kubernetes,git,github,vscode,aws,linux,firebase,tailwind&perline=10"/>`{=html}
-:::
+Backend & Databases
 
-------------------------------------------------------------------------
 
-# 📊 GitHub Analytics
 
-::: {align="center"}
-![GitHub
-Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
+AI / ML / Agentic
 
-![GitHub
-Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true)
-:::
 
-------------------------------------------------------------------------
 
-# 📈 Activity Graph
+Tools
 
-::: {align="center"}
-![Activity
-Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night)
-:::
 
-------------------------------------------------------------------------
 
-# 🐍 Contribution Snake
+📊 GitHub Stats
 
-``` text
-Enable using GitHub Actions:
-Platane/snk
-```
+<!-- 
+  NOTE: github-readme-stats.vercel.app is currently DOWN (DEPLOYMENT_PAUSED).
+  Using the self-hosted mirror below. If still broken, deploy your own:
+  https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own
+-->
 
-![Snake](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
+<div align="center">
 
-------------------------------------------------------------------------
 
-# 💼 Featured Projects
 
-  🚀 Project                Description
-  ------------------------- ------------------------------------
-  🤖 ContextFlow            Agentic AI with persistent memory
-  ☁ AI Gateway              LLM routing, analytics & caching
-  📊 Predictive Analytics   ML dashboard using FastAPI + React
-  🎓 Learning Platform      AI-powered adaptive learning
+</div>
 
-------------------------------------------------------------------------
+🔥 Streak Stats
 
-# 🏆 Achievements
+<div align="center">
 
--   🎓 9.3 CGPA
--   🚀 Multiple AI & Full Stack projects
--   🥇 Hackathon Participant
--   📜 AI Certifications
--   💻 Competitive Programming
 
-------------------------------------------------------------------------
 
-# 📅 Journey
+</div>
 
-``` text
-2024
-│
-├── Started Web Development
-├── Learned React
-├── Built Full Stack Apps
-├── Started AI/ML
-├── Agentic AI
-└── Building SaaS
-```
+📈 Activity Graph
 
-------------------------------------------------------------------------
+<div align="center">
 
-# 📌 Current Focus
 
--   🔥 Building AI systems
--   📚 Learning Kubernetes
--   ☁ Exploring Cloud Infrastructure
--   🤝 Contributing to Open Source
 
-------------------------------------------------------------------------
+</div>
 
-# 📫 Connect
+🏆 Achievements & Trophies
 
-::: {align="center"}
-`<a href="https://linkedin.com/in/your-link">`{=html}
-`<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>`{=html}
-`</a>`{=html}
+<div align="center">
 
-`<a href="mailto:visshnu2007@gmail.com">`{=html}
-`<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>`{=html}
-`</a>`{=html}
-:::
+🏆
 
-------------------------------------------------------------------------
+Achievement
 
-::: {align="center"}
-### ⭐ Build fast. Learn faster. Ship what matters.
-:::
+Details
+
+🎓
+
+Top Academic Cohort
+
+Sustained 9.3 / 10.0 CGPA across all semesters at SRIT
+
+🚀
+
+Prolific Builder
+
+Shipped 4 AI/full-stack projects end-to-end as a 2nd-year student
+
+⚔️
+
+Hackathon Competitor
+
+Competed at MUJ HackX 3.0, Manipal University Jaipur
+
+💻
+
+Competitive Programmer
+
+Active on LeetCode & HackerRank across DSA
+
+📜
+
+Certified AI Engineer
+
+Agentic AI · RAG · Claude AI · N8N · ML A-Z
+
+⭐
+
+Multi-Domain Builder
+
+ML + Agentic AI + Full-Stack React in parallel as a 2nd-year
+
+</div>
+
+💼 Work Experience
+
+<details>
+<summary><b>🏢 Corizo — Frontend Developer Intern &nbsp;|&nbsp; 2025 &nbsp;|&nbsp; Remote</b></summary>
+
+<br/>
+
+   
+
+⚡ Engineered 8 responsive React.js pages and components with reusable architecture, cutting feature-build time by ~30%.
+
+🚀 Optimised the critical rendering path using lazy loading and code splitting, improving Lighthouse scores by 20+ points.
+
+📦 Delivered 3 reusable UI component libraries (modals, forms, nav) adopted across multiple client-facing views.
+
+</details>
+
+🚀 Featured Projects
+
+<div align="center">
+
+Project
+
+Stack
+
+Highlights
+
+🤖 AI Predictive Analytics System
+
+Python · Scikit-learn · Pandas · React.js
+
+Random Forest 87% accuracy; beat baseline by 12%; overfitting gap 18% → <5%
+
+📚 AI-Based Learning Assistant
+
+React.js · Firebase · Tailwind CSS · LLM
+
+Adaptive CSE platform; Firebase Auth + Firestore; ~35% CSS bundle reduction
+
+🗺️ Real-Time Career Roadmap Generator
+
+React.js · Node.js · Firebase
+
+Personalised roadmaps in under 3 seconds; scalable REST API
+
+🛒 E-Commerce Recommendation System
+
+React.js · Python · ML
+
+Collaborative-filtering engine; real-time preference updates
+
+</div>
+
+🎓 Education
+
+<div align="center">
+
+Degree
+
+Institution
+
+Year
+
+Score
+
+B.E. / B.Tech — Computer Science Engineering
+
+Sri Ramakrishna Institute of Technology, Tamil Nadu
+
+2024 – 2028
+
+9.3 / 10.0
+
+</div>
+
+🧱 Currently Learning
+
+🤖 Agentic RAG  → Qdrant Vector DB · Gemini Embeddings · Persistent Memory
+🧠 LLM Patterns → Query Classification · Tool Registries · Agent Orchestration
+⚡ Next.js 14   → App Router · Server Actions · React Server Components
+🔗 LangChain    → Advanced Chains · Memory · Multi-Agent Systems
+🛠️ DevOps       → Docker · CI/CD Pipelines · Cloud Deployment
+
+<div align="center">
+
+"Build fast. Learn faster. Ship what matters."
+
+
+
+</div>
+
+<div align="center">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 120" width="100%">
+  <defs>
+    <linearGradient id="fg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="40%" stop-color="#1a1b4b"/>
+      <stop offset="100%" stop-color="#0d1117"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="120" fill="url(#fg)"/>
+  <path d="M0,40 C150,80 300,0 450,40 C600,80 750,0 900,40 L900,0 L0,0 Z" fill="#0d1117" opacity="0.6"/>
+  <path d="M0,20 C200,60 400,0 600,30 C750,50 850,10 900,20 L900,0 L0,0 Z" fill="#0d1117" opacity="0.9"/>
+</svg>
+</div>
